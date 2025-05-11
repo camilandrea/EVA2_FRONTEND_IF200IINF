@@ -1,0 +1,20 @@
+.hero-gif {
+  position: relative;
+  height: 80vh;
+  background: url('../img/fondo.gif') center/cover no-repeat;
+  overflow: hidden;
+}
+
+.hero-gif .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* oscurece el gif para mejor contraste */
+  z-index: 0;
+}
+
+.hero-gif .container {
+  z-index: 1;
+}

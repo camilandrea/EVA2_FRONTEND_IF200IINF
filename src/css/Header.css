@@ -1,0 +1,13 @@
+.bg-navy {
+  background:  #001f3f ;
+}
+
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+/* Alineación y margen para el botón hamburguesa */
+.custom-toggler {
+  margin-right: 15px; /* Ajusta este valor según el espacio que quieras */
+}
+
