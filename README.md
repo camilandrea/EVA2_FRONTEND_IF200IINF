@@ -1,3 +1,5 @@
+#Observación: En este proyecto se utilizó el paquete npx, el cual no fue subido a git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
