@@ -1,4 +1,4 @@
-#Observación: En este proyecto se utilizó el paquete npx, el cual no fue subido a git
+# Observación: En este proyecto se utilizó el paquete npx, el cual no fue subido a git
 
 # Getting Started with Create React App
 
